@@ -56,4 +56,4 @@ To support my CCNA studies and deepen my understanding of network device managem
 ---
 
 ## 🔗 LinkedIn
-💼 [Connect with me on LinkedIn](www.linkedin.com/in/brandonthomasdowner)
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
