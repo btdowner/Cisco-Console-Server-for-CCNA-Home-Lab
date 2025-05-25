@@ -21,6 +21,8 @@ To support my CCNA studies and deepen my understanding of network device managem
 - Powered USB hub with multiple Cisco console cables  
 - pfSense router for VLAN segmentation and DHCP reservations  
 
+<img src="20250525_061752.jpg" alt="Raspberry Pi with USB Console Hub" width="500"/>
+
 ---
 
 ## ✨ Key Features
@@ -51,16 +53,7 @@ To support my CCNA studies and deepen my understanding of network device managem
 - Create a **smart serial crossover cable** to simulate WAN links  
 - Continue building **CCNA labs** and explore **CCNP-level topologies**  
 - Potential future automation (power cycle, device discovery, logging)
-
 ---
 
-## 📎 Related Media
-
-<img src="20250525_061752.jpg" alt="Raspberry Pi with USB Console Hub" width="500"/>
-
----
-
-## 🔗 Portfolio & LinkedIn
-
-📁 [View this project on my portfolio](https://your-portfolio-link.com)  
-💼 [Connect with me on LinkedIn](https://linkedin.com/in/your-profile)
+## 🔗 LinkedIn
+💼 [Connect with me on LinkedIn](www.linkedin.com/in/brandonthomasdowner)
